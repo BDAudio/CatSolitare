@@ -13,5 +13,5 @@ Here's the final result - a fully functional Cat Solitaire game with drag-and-dr
 details efficiently.
 
 
-## Conclusion "Thanks for watching! If you want to try building something with Amazon Q CLI, I highly recommend it - especially for projects like this where you can iterate quickly and focus on the creative aspects. Happy coding... 
+## Conclusion "Thanks for checking this little game out! If you want to try building something with Amazon Q CLI, I highly recommend it - especially for projects like this where you can iterate quickly and focus on the creative aspects. Happy coding... 
 
